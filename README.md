@@ -25,8 +25,8 @@ This application contains sample code that should not be used in a production en
 5. It will require a user token and project ID.
 
    - User token retrieval:
-      - Go to the Storage API [developer portal](https://developer.bentley.com/api-groups/data-management/apis/storage/operations/get-top-level-folders-and-files-by-project/)
-      - Click the TryIt Button
+      - Go to the Storage API [developer portal](https://developer.bentley.com/apis/storage/operations/get-top-level-folders-and-files-by-project/)
+      - Click the Try it out Button
       - In the popup window, select authorizationCode in the Bentley OAuth2 Service dropdown
       - This will popup another window that will require you to login.
       - After you login, the Authorization header will be populated. Copy the entire string and paste into the command window for the iTwin Sample Project App.
